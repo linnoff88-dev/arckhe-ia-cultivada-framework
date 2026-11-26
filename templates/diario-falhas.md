@@ -12,7 +12,7 @@ Mais recente no topo. Uma linha por falha.
 
 - **Data:** YYYY-MM-DD
 - **O que quebrou:** fato, sem narrativa. "Marcou consulta fora do horario."
-- **Menor correcao possivel:** a proteção que faltava. "Consultar agenda antes de propor horario."
+- **Menor correcao possivel:** a proteçêo que faltava. "Consultar agenda antes de propor horario."
 - **Prompt / Infra:**
   - `prompt` = instrucao/contexto induziu o erro, modelo entendeu errado
   - `infra` = maquina, rede, servico, permissao, processo
